@@ -5,7 +5,7 @@
 <div class="anbaoxinxi" id="drift" @mousedown="mousedown">
  拖动内容
 </div>
-##### js部分
+#### js部分
 mousedown (event) {
       this.selectElement = document.getElementById('drift')
       var div1 = this.selectElement
